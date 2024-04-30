@@ -1,2 +1,1 @@
-# MyWebSite
-Public website with HTML
+# Portfolio Site Codebase
